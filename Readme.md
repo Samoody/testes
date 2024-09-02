@@ -20,16 +20,16 @@ O código-fonte do projeto está contido em um único arquivo Python (`tester.py
 
 2. **Clonar o Repositório**: 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/samoody/testes.git
     cd nome-do-repositorio
     ```
 
 3. **Executar o Script**:
     - Abra o terminal ou o prompt de comando.
-    - Navegue até o diretório onde está localizado o arquivo `main.py`.
+    - Navegue até o diretório onde está localizado o arquivo `tester.py`.
     - Execute o seguinte comando:
       ```bash
-      python main.py
+      python tester.py
       ```
 
 4. **Interagir com o Programa**:
