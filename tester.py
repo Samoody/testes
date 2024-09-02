@@ -76,7 +76,7 @@ def inverter_string(s):
     return string_invertida
 
 def inverter_string_usuario():
-    string = input("5) Digite uma string para inverter: ")
+    string = input("5) Informe  uma string para inverter: ")
     print("String invertida:", inverter_string(string))
 
 
