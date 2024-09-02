@@ -6,7 +6,7 @@ Este projeto contém a solução de cinco problemas em Python, abrangendo difere
 
 ## Estrutura do Projeto
 
-O código-fonte do projeto está contido em um único arquivo Python (`main.py`). As funções implementadas são:
+O código-fonte do projeto está contido em um único arquivo Python (`tester.py`). As funções implementadas são:
 
 1. **Soma de Variáveis**: Calcula a soma de uma série de valores com base em uma condição específica.
 2. **Verificação de Número na Sequência de Fibonacci**: Verifica se um número pertence à sequência de Fibonacci.
