@@ -8,7 +8,7 @@ def soma_variavel():
         SOMA += K
 
     print("1) Valor da variável SOMA:", SOMA)
-
+SOMA = 91
 
 
 def is_fibonacci_number(n):
