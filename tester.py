@@ -1,4 +1,3 @@
-# 1) Qual será o valor da variável SOMA?
 def soma_variavel():
     INDICE = 13
     SOMA = 0
